@@ -42,3 +42,9 @@ I'm a driven individual with a passion for creating innovative solutions and sta
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Markup Languages
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![Material-UI](https://img.shields.io/badge/MaterialUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  
+
